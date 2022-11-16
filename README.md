@@ -2,6 +2,4 @@
 ---
 **My Favorite Stuff**
 
-Food
-Food
-Food
+...
